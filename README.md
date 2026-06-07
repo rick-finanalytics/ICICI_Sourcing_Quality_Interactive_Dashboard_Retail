@@ -21,6 +21,7 @@ Retail lending profitability depends heavily on customer credit quality, sourcin
 ## 🔍 Key Analytics Modules
 
 ### 1. Profitability Analysis
+
 Analyze portfolio profitability across:
 
 - CIBIL Score Bands
@@ -31,14 +32,13 @@ Analyze portfolio profitability across:
 - States & Manufacturers
 
 **KPIs Covered**
+
 - PBT%
 - IRR%
 - Revenue
 - Recovery
 - Profit per Loan
 - Cost Components
-
----
 
 ### 2. Sourcing Quality & Risk Analysis
 
@@ -51,8 +51,6 @@ Evaluate credit performance through:
 
 This module helps identify high-risk customer segments and sourcing channels.
 
----
-
 ### 3. Future Profitability Forecasting
 
 Built an ETS-based forecasting framework to:
@@ -60,8 +58,6 @@ Built an ETS-based forecasting framework to:
 - Analyze historical profitability trends
 - Forecast future PBT performance
 - Support portfolio planning and strategic decision-making
-
----
 
 ### 4. What-If Simulation Framework
 
@@ -119,27 +115,6 @@ allowing decision-makers to evaluate the impact of alternative sourcing strategi
 - Supported future profitability forecasting and planning.
 - Delivered a dynamic scenario-analysis framework for strategic decision-making.
 - Converted complex lending analytics into an interactive executive dashboard.
-
----
-
-## 📷 Dashboard Preview
-
-> Add dashboard screenshots here.
-
-### Homepage
-![Homepage](images/homepage.png)
-
-### Profitability Analysis
-![Profitability](images/profitability.png)
-
-### Sourcing Quality Analysis
-![Sourcing Quality](images/sourcing_quality.png)
-
-### Forecasting
-![Forecasting](images/forecasting.png)
-
-### What-If Simulation
-![Simulation](images/simulation.png)
 
 ---
 
